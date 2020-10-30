@@ -9,6 +9,7 @@ pytest-cov = "*"
 pytest-watch = "*"
 autopep8 = "*"
 coverage = "*"
+pytest = "*"
 
 [packages]
 
