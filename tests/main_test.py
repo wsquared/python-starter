@@ -1,9 +1,6 @@
-# foo.py
-
 import pytest
 
-from src.foo import Foo, bar
-from src.exceptions import CustomError
+from src.main import Foo, bar, CustomError
 
 
 @pytest.fixture

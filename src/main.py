@@ -1,4 +1,10 @@
-from src.exceptions import CustomError
+"""
+
+"""
+from typing import List
+
+class CustomError(Exception):
+    pass
 
 class Foo(object):
     def __init__(self, value: int) -> None:
